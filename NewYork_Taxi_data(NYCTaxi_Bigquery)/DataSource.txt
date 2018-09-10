@@ -1,0 +1,1 @@
+This data is a public dataset available in Google Bigquery (NYCTaxi_trips).
